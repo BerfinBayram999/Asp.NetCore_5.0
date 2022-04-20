@@ -10,3 +10,14 @@ C:\Users\USER\source\repos\CoreMVCBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.
 C:\Users\USER\source\repos\CoreMVCBlog\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
 C:\Users\USER\source\repos\CoreMVCBlog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\USER\source\repos\CoreMVCBlog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

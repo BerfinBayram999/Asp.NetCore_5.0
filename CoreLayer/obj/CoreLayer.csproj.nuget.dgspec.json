@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -65,25 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\CoreLayer\\CoreLayer.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\CoreLayer\\obj\\",
+        "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreLayer\\CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,14 +89,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -133,25 +125,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,8 +153,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -217,25 +205,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -275,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

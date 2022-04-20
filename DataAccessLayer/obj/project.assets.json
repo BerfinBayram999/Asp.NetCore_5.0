@@ -5814,24 +5814,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Kızılkafa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\DataAccessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5845,8 +5840,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\CoreMVCBlog\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -5897,7 +5892,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
