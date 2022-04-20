@@ -4,6 +4,67 @@
     "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreMVCBlog\\CoreMVCBlog.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Kızılkafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kızılkafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\CoreMVCBlog\\CoreMVCBlog.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +89,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\BusinessLayer\\BusinessLayer.csproj"
+              },
               "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
                 "projectPath": "C:\\Users\\Kızılkafa\\source\\repos\\Asp.NetCore_5.0\\DataAccessLayer\\DataAccessLayer.csproj"
               },

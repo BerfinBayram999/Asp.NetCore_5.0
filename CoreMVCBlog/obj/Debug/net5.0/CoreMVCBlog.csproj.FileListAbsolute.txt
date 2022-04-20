@@ -779,3 +779,6 @@ C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\C
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\CoreMVCBlog.Views.pdb
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\CoreMVCBlog.csproj.CopyComplete
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\CoreMVCBlog.genruntimeconfig.cache
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs

@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "CoreMVCBlog/1.0.0": {
         "dependencies": {
+          "BusinessLayer": "1.0.0",
           "DataAccessLayer": "1.0.0",
           "EntityLayer": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.0",
@@ -1481,6 +1482,18 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "BusinessLayer/1.0.0": {
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayer.dll": {}
+        },
+        "compile": {
+          "BusinessLayer.dll": {}
         }
       },
       "DataAccessLayer/1.0.0": {
@@ -3965,6 +3978,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "DataAccessLayer/1.0.0": {
       "type": "project",
