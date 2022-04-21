@@ -31,3 +31,4 @@ C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\BusinessLayer\obj\Debug\net5.0
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete

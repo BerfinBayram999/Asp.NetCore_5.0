@@ -21,3 +21,4 @@ C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\E
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
