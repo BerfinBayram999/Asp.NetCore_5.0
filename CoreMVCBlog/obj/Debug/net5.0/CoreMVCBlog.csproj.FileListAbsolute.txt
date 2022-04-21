@@ -831,3 +831,4 @@ C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\R
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
 C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\Kızılkafa\source\repos\Asp.NetCore_5.0\CoreMVCBlog\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
